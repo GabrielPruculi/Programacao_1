@@ -1,5 +1,7 @@
 /*
-ler as variáveis reais com scanf para cada dia 
+declarar as variáveis reais de entrada e despesas para cada dia 
+declarar as variáveis reais que farão a soma dos valores recebidos, a soma dos gastos e o caixa do dia
+pedir as informações de entrada e saída
 
 */
 #include <stdio.h>
