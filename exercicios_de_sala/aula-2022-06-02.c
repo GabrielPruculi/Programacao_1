@@ -1,10 +1,10 @@
 /*
+Aluno: Gabriel Pruculi
 matrícula: 2018103606
 declarar as variáveis reais de entrada e despesas para cada dia 
 pedir as informações de entrada e saída de cada dia
 ler as informações de entrada e saída de cada dia 
 para cada dia, utilizar os condicionais para mostrar o valor ganho e gasto do dia, e se o saldo é positivo (>2000) ou negativo (-500)
-
 */
 #include <stdio.h>
 int main()
