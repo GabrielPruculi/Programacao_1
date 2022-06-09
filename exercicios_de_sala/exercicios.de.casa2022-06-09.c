@@ -64,6 +64,8 @@ B = 30;
 printf ("%s, %s", A, B);
 d)
 [caractere digitado: "B"]
+char c1 = 'B';
+printf ("[caractere digitado: B \"%c\"]\n "); 
 
 5. Complete o código para que seja exibida a soma de 5 + 10 usando as variáveis x e y:
 
